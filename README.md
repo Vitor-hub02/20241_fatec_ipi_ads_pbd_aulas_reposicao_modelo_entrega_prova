@@ -1,2 +1,6 @@
-Nomes dos integrantes completos e sem abreviações e seus RAS
-Somente serão considerados os integrantes que tiverem ingressado com, no máximo, 30 minutos de atraso
+# Integrantes desse projeto:
+
+<ul>
+    <li>Gabriel Narciso Oliveira - 2040482213019 </li>
+    <li>Vitor Vilaça da Silva - 2040482213009 </li>
+</ul>
